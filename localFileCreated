@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 This is a locally created File using a Vi editor
 
 More info here
 
 Some info here.
+=======
+This is a locally created File using a Vi editor.
+
+some version 1.0 changes
+
+and some more changes
+>>>>>>> version1.0
